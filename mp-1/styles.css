@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+nav{
+    background-color: darkred;
+    padding:5px;
+    margin-left: 20px;
+}
+nav ul{padding-left:0;
+list-style: none;}
+nav li{
+display: inline;
+    padding:5px;
+    border-right: 2px solid black;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+}
